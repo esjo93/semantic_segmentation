@@ -1,17 +1,15 @@
-# Semantic segmentation on COCO dataset
----
+# Semantic segmentation on clothing parsing dataset
 
-This project consists of practices on semantic segmentation of various segmentation method.
+This project consists of a practice on semantic segmentation with u-net-like network.
 
-The papers I referenced are:
+Dataset I used is [clothing parsing dataset](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/)
+
+The paper I referenced is:
 - [U-Net](https://arxiv.org/abs/1505.04597) - Convolutional Networks for Biomedical Image Segmentation
-- [SegNet](https://arxiv.org/abs/1511.00561) A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
 
-![segnet](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/3cdb1364c3e66443e1c2182474d44b2fb01cd584/4-Figure2-1.png)
 
 
 # Environment
----
 Tools & versions
 | Tools | Version |
 | ------ | ------ |
